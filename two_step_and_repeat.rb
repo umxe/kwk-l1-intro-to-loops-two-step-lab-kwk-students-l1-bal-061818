@@ -20,7 +20,7 @@ def a_few_more_steps
     puts "Stop"
     sleep(1)
   sleep(.5)
-  puts 
+  puts "Right foot steps right and back"
 end
 
 def how_many_steps?
