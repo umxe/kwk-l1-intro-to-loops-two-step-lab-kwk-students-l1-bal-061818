@@ -21,6 +21,7 @@ def a_few_more_steps
     sleep(1)
   sleep(.5)
   puts "Right foot steps right and back"
+  puts "Left foot crosses over right"
 end
 
 def how_many_steps?
